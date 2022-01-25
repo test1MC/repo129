@@ -21,3 +21,11 @@
 # you push to your repository, the more your performance may be affected. 
 ######################################################################################
 # MadCap file patterns
+/Output
+/Analyzer
+/FileSync
+/Project/Users
+/.svn
+**/Thumbs.db
+/Content/Misc stuff
+/Content/User b only
